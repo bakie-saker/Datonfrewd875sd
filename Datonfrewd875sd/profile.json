@@ -1,0 +1,35 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "محمد",
+      "avatar": "https://raw.githubusercontent.com/bakie-saker/Avatars/main/01.png",
+      "pin": "1234",
+      "subtitleSettings": {
+        "language": "ar",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "fontSize": 50,
+        "subtitlePosition": 200,
+        "backgroundOpacity": 100,
+        "backgroundEnabled": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "raoudha",
+      "avatar": "https://raw.githubusercontent.com/bakie-saker/Avatars/main/31.png",
+      "pin": "",
+      "subtitleSettings": {
+        "language": "ar",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "fontSize": 50,
+        "subtitlePosition": 200,
+        "backgroundOpacity": 100,
+        "backgroundEnabled": true
+      }
+    }
+  ],
+  "currentProfile": 1
+}
