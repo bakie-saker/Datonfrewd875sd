@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-01-09T00:01:24.423Z",
+  "exportDate": "2026-01-09T19:41:31.608Z",
   "exportType": "live",
   "version": "2.0",
   "categories": [
@@ -630,6 +630,60 @@
     },
     {
       "type": "live",
+      "id": "1767541753837",
+      "name": "BEIN SPORTS MAX 3",
+      "category": "BEIN SPORTS",
+      "logo": "https://via.placeholder.com/150x100/333333/FFFFFF?text=No+Logo",
+      "streamLinks": [
+        {
+          "id": "main",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55307",
+          "isMain": true
+        },
+        {
+          "id": "1767541728525",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55308",
+          "isMain": false
+        },
+        {
+          "id": "1767541735181",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55309",
+          "isMain": false
+        }
+      ],
+      "categoryOrder": 12,
+      "globalOrder": 25,
+      "updatedAt": "2026-01-04T15:49:13.838Z"
+    },
+    {
+      "type": "live",
+      "id": "1767541797501",
+      "name": "BEIN SPORTS MAX 4",
+      "category": "BEIN SPORTS",
+      "logo": "https://via.placeholder.com/150x100/333333/FFFFFF?text=No+Logo",
+      "streamLinks": [
+        {
+          "id": "main",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55310",
+          "isMain": true
+        },
+        {
+          "id": "1767541773125",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55311",
+          "isMain": false
+        },
+        {
+          "id": "1767541782085",
+          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55312",
+          "isMain": false
+        }
+      ],
+      "categoryOrder": 13,
+      "globalOrder": 26,
+      "updatedAt": "2026-01-04T15:49:57.501Z"
+    },
+    {
+      "type": "live",
       "id": "1767541676238",
       "name": "BEIN SPORTS MAX 1 ",
       "category": "BEIN SPORTS",
@@ -654,11 +708,26 @@
           "id": "1767541666573",
           "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55303",
           "isMain": false
+        },
+        {
+          "id": "1767987601976",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4491",
+          "isMain": false
+        },
+        {
+          "id": "1767987614024",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4495",
+          "isMain": false
+        },
+        {
+          "id": "1767987629488",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4499",
+          "isMain": false
         }
       ],
-      "categoryOrder": 12,
-      "globalOrder": 25,
-      "updatedAt": "2026-01-04T15:47:56.238Z"
+      "categoryOrder": 14,
+      "globalOrder": 27,
+      "updatedAt": "2026-01-09T19:40:33.185Z"
     },
     {
       "type": "live",
@@ -686,65 +755,26 @@
           "id": "1767541707430",
           "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55306",
           "isMain": false
-        }
-      ],
-      "categoryOrder": 13,
-      "globalOrder": 26,
-      "updatedAt": "2026-01-04T15:48:35.718Z"
-    },
-    {
-      "type": "live",
-      "id": "1767541753837",
-      "name": "BEIN SPORTS MAX 3",
-      "category": "BEIN SPORTS",
-      "logo": "https://via.placeholder.com/150x100/333333/FFFFFF?text=No+Logo",
-      "streamLinks": [
-        {
-          "id": "main",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55307",
-          "isMain": true
         },
         {
-          "id": "1767541728525",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55308",
+          "id": "1767987657232",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4492",
           "isMain": false
         },
         {
-          "id": "1767541735181",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55309",
-          "isMain": false
-        }
-      ],
-      "categoryOrder": 14,
-      "globalOrder": 27,
-      "updatedAt": "2026-01-04T15:49:13.838Z"
-    },
-    {
-      "type": "live",
-      "id": "1767541797501",
-      "name": "BEIN SPORTS MAX 4",
-      "category": "BEIN SPORTS",
-      "logo": "https://via.placeholder.com/150x100/333333/FFFFFF?text=No+Logo",
-      "streamLinks": [
-        {
-          "id": "main",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55310",
-          "isMain": true
-        },
-        {
-          "id": "1767541773125",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55311",
+          "id": "1767987668224",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4496",
           "isMain": false
         },
         {
-          "id": "1767541782085",
-          "url": "http://top.cloud-ip.cc:2052/Bakisae/151592Viva/55312",
+          "id": "1767987677560",
+          "url": "http://ugeen.live:8080/Ugeen_VIPuWEMyu/ETqkHf/4500",
           "isMain": false
         }
       ],
       "categoryOrder": 15,
       "globalOrder": 28,
-      "updatedAt": "2026-01-04T15:49:57.501Z"
+      "updatedAt": "2026-01-09T19:41:27.320Z"
     },
     {
       "type": "live",
